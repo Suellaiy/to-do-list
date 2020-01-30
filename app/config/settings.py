@@ -18,6 +18,7 @@ ROOT_DIR = os.path.dirname(BASE_DIR)
 APP_ROOT = os.path.join(ROOT_DIR, 'app')
 TEMPLATE_DIR = os.path.join(APP_ROOT, 'templates')
 
+print(TEMPLATE_DIR)
 STATIC_URL = '/static/'
 STATIC_DIR = os.path.join(BASE_DIR, 'static')
 STATICFILES_DIRS = [
