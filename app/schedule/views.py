@@ -29,7 +29,8 @@ def do_check(request, pk):
 def schedule_create(request):
     if request.method == 'POST':
         context = request.POST['context']
+        more_information = request.POST['more_information']
         date_time = request.POST['date_time']
-        Schedule.objects.create(context=context, date_time=date_time)
+        Schedule.objects.create(context=context, more_information=more_information, date_time=date_time)
 
     return redirect('index')

@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55c0e3af-da7e-4070-bcc1-d3e8466ff888" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/app/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/schedule/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/schedule/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/schedule/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/schedule/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/to-do-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/to-do-list.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
